@@ -1,1 +1,14 @@
+## Write an email from a student to their professor requesting an extension on an assignment submission deadline.
 
+Dear Professor Kanan,
+
+I hope you are doing well. I am writing to request a short extension for the submission of the CSE0001 project. Due to overlapping academic workload and time required to complete the project properly, I have been unable to finish it to the best of my ability within the given deadline.
+
+I sincerely apologize for any inconvenience caused and assure you that I am working diligently to complete the project. I kindly request an extension of a few days so that I can submit a well-prepared and complete project.
+
+Thank you for your understanding and consideration.
+
+Yours sincerely,
+Shreya
+25BAI10326
+CSE AIML(First Year)
