@@ -1,1 +1,21 @@
+## Write an email from a student to an internship coordinator at a company, expressing interest in a summer internship opportunity. 
 
+
+Subject: Application for Summer Internship Opportunity
+
+Dear Internship Coordinator,
+
+
+I am writing to express my interest in a summer internship opportunity at your esteemed organization. I am currently a B.Tech student in Computer Science with a specialization in AI & ML, and I am eager to gain practical experience and enhance my skills in a professional environment.
+
+I have been actively learning Data Structures and Algorithms in Python and have a strong interest in web development and machine learning. I am highly motivated, quick to learn, and enthusiastic about applying my knowledge to real-world projects.
+
+I would be grateful for the opportunity to contribute to your team while learning from experienced professionals. Please let me know if there are any available internship positions or further steps I should follow in the application process.
+
+Thank you for your time and consideration.
+
+Yours sincerely,
+Shreya
+25BAI10326
+CSE AIML(First Year)
+shreya.25bai10326@vitbhopal.acin
